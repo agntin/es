@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nautilus-autorun-software.desktop" open-window-count="0" score="0" last-seen="1655208377"/>
+    <application id="firefox.desktop" open-window-count="0" score="2" last-seen="1655209217"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="2" last-seen="1655380525"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1655208143"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="18" last-seen="1655370739"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="14381" last-seen="1655380514"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1655208078"/>
+  </context>
+</application-state>
